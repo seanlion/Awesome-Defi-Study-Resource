@@ -172,3 +172,7 @@
 - [Direct Indexing](https://news.einfomax.co.kr/news/articleView.html?idxno=4206236)
 - [탄소배출권 토큰 프로토콜 NCT](https://blog.toucan.earth/announcing-nct-nature-carbon-tonne/)
 - [Oasis Network](https://docs.oasis.dev/general/)
+
+---
+### License
+[MIT](https://github.com/seanlion/Awesome-Defi-Study-Resource/blob/main/LICENSE)
