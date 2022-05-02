@@ -4,25 +4,42 @@
 
 - 2022년 1월부터 디파이 트랜드, 서비스들을 탐구해보고자 지인들과 스터디를 시작했습니다.
 - 약 10주 동안 시즌1을 진행했고 스터디를 진행하면서 디파이와 관련 웹3 생태계에 대한 이해도를 많이 높일 수 있었습니다.
-시즌2 시작 전, 저희가 리서치했던 내용을 공유해 디파이를 공부하는 다른 분들에게 도움을 드리고자 이 레포지토리를 만들었습니다.
-- 내부적으로 정리했던 내용이라 잘못된 부분이 있을 수 있습니다. 이런 부분들에 대해서는 `Pull Request`
- or `Issue`로 참여해주시면 정말 감사하겠습니다.
+- 스터디 시즌2를 시작하기 전에, 저희가 리서치했던 내용을 공유해 디파이를 공부하는 다른 분들에게 도움을 드리고자 이 레포지토리를 만들었습니다.
+- 내부적으로 정리했던 내용이라 잘못된 부분이 있을 수 있습니다. 이런 부분들에 대해서는 `Issue`에 등록해주시면 정말 감사하겠습니다.
 
 ## 기여한 사람들
 
-<div align=center>
+<div align=left>
+    허승 - 
     <a href="https://twitter.com/doertakesall">
     <img alt="Twitter: Doertakesall" src="https://img.shields.io/twitter/follow/doertakesall?style=social" target="_blank" />
     </a>
     <br>
-    <a href="https://twitter.com/doertakesall">
-    <img alt="Twitter: Doertakesall" src="https://img.shields.io/twitter/follow/doertakesall?style=social" target="_blank" />
+    박종호 - <a href="https://twitter.com/danpark012">
+    <img alt="Twitter: danpark012" src="https://img.shields.io/twitter/follow/danpark012?style=social" target="_blank" />
     </a>
     <br>
-    <a href="https://t.me/jiholyxhit">
+    우지호 - <a href="https://t.me/jiholyxhit">
     <img alt="Telegram: jiholyxhit" src="https://img.shields.io/badge/Follow%20TG%40-jiholyxhit-orange" target="_blank" />
     </a>
+    <br>
+    김건수
+    <br>
+    김종국
+    <br>
+    김운연
+    <br>
+    김종국
+    <br>
+    강협
+    <br>
+    박종수
+    <br>
+    김태현
+    <br>
 </div>
+<br>
+
 ## 아카이빙
 
 ### 발표 자료
@@ -113,18 +130,18 @@
 **중앙은행의 시각으로 바라본 루나와 테라**
 - [중앙은행의 시각으로 바라본 루나-테라 시리즈- 0. 중앙은행의 역사](https://doramuton.medium.com/%EC%A4%91%EC%95%99%EC%9D%80%ED%96%89%EC%9D%98-%EC%8B%9C%EA%B0%81%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%A3%A8%EB%82%98-%ED%85%8C%EB%9D%BC-%EC%8B%9C%EB%A6%AC%EC%A6%88-0-%EC%A4%91%EC%95%99%EC%9D%80%ED%96%89%EC%9D%98-%EC%97%AD%EC%82%AC-5c12c68606a)
 
-### 키워드
+### 공부한 키워드
 
-- Badger dao : Yearn Finance + Boosting
-- Raymond_cng [트위터](https://twitter.com/chng_raymond) : Guildfi가 넥스트 테마.
+- Badger dao - Yearn Finance + Boosting
+- [GuildFi](https://twitter.com/chng_raymond)
 - 크립토로 ETF를 만들 수 있을까?
 - vAMM
-- perpetual futures: 참고 [글](https://research.paradigm.xyz/cartoon-guide-to-perps)
+- [perpetual futures](https://research.paradigm.xyz/cartoon-guide-to-perps)
 - [Kluv.me](http://Kluv.me) : 클레이튼 정보 포탈
-- Tomb finance : Basis Cash 모델과 유사한 팬텀 디파이
-- Insurance Fund : 프로토콜을 위한 펀드(Perp futures를 위한 금고 같은 것, 버퍼를 위한 것)
+- Tomb finance - Basis Cash 모델과 유사한 팬텀 디파이
+- Insurance Fund - 프로토콜을 위한 펀드(Perp futures를 위한 금고 같은 것, 버퍼를 위한 것)
 - Tornado Cash
-- Liquity ⇒ API 서비스 같은 스테이블 코인 스마트 컨트랙트.
+- Liquity - API 서비스 같은 스테이블 코인 스마트 컨트랙트
 - Fixed Forex
 - UXD / 망고마켓
 - Sablier finance
@@ -133,25 +150,25 @@
 - coinhall.org
 - Liquid driver
 - Alchemix transmuter 매커니즘
-- Near protocol 생태계 (metapool)
+- Near protocol Metapool
 - American covered option(dydx)
-- privacy focused mainNet : SCRT, ESPRESSO
-- Option Vault 프로토콜 : [Ribbon Finance](https://app.ribbon.finance/)
-- 셀피 NFT 프로젝트 : [https://ujin.one/](https://ujin.one/)
-- 크리에이터 NFT 커뮤니티 프로젝트 : [https://www.mybias.me/](https://www.mybias.me/)
-- Orange DAO : [https://orangedao.notion.site/Orange-DAO-Homepage-2c1d36961c7645dc8f285a9c0b327bfe](https://www.notion.so/Orange-DAO-Homepage-2c1d36961c7645dc8f285a9c0b327bfe)
-- a16z's thesis on LayerZero :  [https://a16z.com/2022/03/30/investing-in-layerzero/](https://a16z.com/2022/03/30/investing-in-layerzero/)
-- Bankless Layer zero : [https://podcasts.apple.com/kr/podcast/bankless/id1499409058?i=1000554824301](https://podcasts.apple.com/kr/podcast/bankless/id1499409058?i=1000554824301)
-- 모듈러 블록체인 : [https://medium.com/a41-ventures/web-3-모듈러-블록체인-탈중앙화의-재정의-a6260f05538c](https://medium.com/a41-ventures/web-3-%EB%AA%A8%EB%93%88%EB%9F%AC-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%83%88%EC%A4%91%EC%95%99%ED%99%94%EC%9D%98-%EC%9E%AC%EC%A0%95%EC%9D%98-a6260f05538c)
-- 비탈릭의 ETH scaling solution 로드맵 : [https://twitter.com/vitalikbuterin/status/1312905882330521600?lang=en](https://twitter.com/vitalikbuterin/status/1312905882330521600?lang=en)
-- 온체인 마켓 데이터 분석:  [https://pyth.network/](https://pyth.network/)
-- 오라클 API 서비스 :  [https://api3.org/](https://api3.org/)
+- privacy focused Mainnet : SCRT, ESPRESSO
+- [Option Vault 프로토콜 Ribbon Finance](https://app.ribbon.finance/)
+- [셀피 NFT 프로젝트](https://ujin.one/)
+- [크리에이터 NFT 커뮤니티 프로젝트 Mybias](https://www.mybias.me/)
+- [Orange DAO](https://www.notion.so/Orange-DAO-Homepage-2c1d36961c7645dc8f285a9c0b327bfe)
+- [a16z's thesis on LayerZero](https://a16z.com/2022/03/30/investing-in-layerzero/)
+- [Bankless Layer zero](https://podcasts.apple.com/kr/podcast/bankless/id1499409058?i=1000554824301)
+- [모듈러 블록체인](https://medium.com/a41-ventures/web-3-%EB%AA%A8%EB%93%88%EB%9F%AC-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%83%88%EC%A4%91%EC%95%99%ED%99%94%EC%9D%98-%EC%9E%AC%EC%A0%95%EC%9D%98-a6260f05538c)
+- [비탈릭의 ETH scaling solution 로드맵](https://twitter.com/vitalikbuterin/status/1312905882330521600?lang=en)
+- [온체인 마켓 데이터 분석 - pyth network](https://pyth.network/)
+- [오라클 API 서비스](https://api3.org/)
 - Synapse 프로토콜
-- MPC(MultiPart Computation) : [https://www.qredo.com/ko/blog/decentralized-mpc-vs-multisig](https://www.qredo.com/ko/blog/decentralized-mpc-vs-multisig)
+- [MPC(MultiPart Computation)](https://www.qredo.com/ko/blog/decentralized-mpc-vs-multisig)
 - Threshold Signature Scheme
-- Stableyields : [https://twitter.com/stableyields](https://twitter.com/stableyields) (스테이블 풀들을 소개해주는 사이트)
-- 디파이일드 : [https://t.me/defiyield_ann](https://t.me/defiyield_ann) (스테이블 풀들을 정리해주는 사이트)
-- Privacy NFT marketplace ‘Stash’ : [https://stashh.io/](https://stashh.io/)
-- Direct Indexing : [https://news.einfomax.co.kr/news/articleView.html?idxno=4206236](https://news.einfomax.co.kr/news/articleView.html?idxno=4206236)
-- 탄소배출권 토큰 프로토콜 NCT : [https://blog.toucan.earth/announcing-nct-nature-carbon-tonne/](https://blog.toucan.earth/announcing-nct-nature-carbon-tonne/)
-- Oasis Network : [https://docs.oasis.dev/general/](https://docs.oasis.dev/general/)
+- [Stableyields](https://twitter.com/stableyields) (스테이블 풀들을 소개해주는 사이트)
+- [디파이일드](https://t.me/defiyield_ann) (스테이블 풀들을 정리해주는 사이트)
+- [Privacy NFT marketplace ‘Stash’](https://stashh.io/)
+- [Direct Indexing](https://news.einfomax.co.kr/news/articleView.html?idxno=4206236)
+- [탄소배출권 토큰 프로토콜 NCT](https://blog.toucan.earth/announcing-nct-nature-carbon-tonne/)
+- [Oasis Network](https://docs.oasis.dev/general/)
