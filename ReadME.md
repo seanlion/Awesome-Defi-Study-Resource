@@ -10,11 +10,19 @@
 
 ## 기여한 사람들
 
-<!-- Sample link -->
-<a href="https://twitter.com/JbeeLjyhanll">
-<img alt="Twitter: JbeeLjyhanll" src="https://img.shields.io/twitter/follow/JbeeLjyhanll.svg?style=social" target="_blank" />
-</a>
-
+<div align=center>
+    <a href="https://twitter.com/doertakesall">
+    <img alt="Twitter: Doertakesall" src="https://img.shields.io/twitter/follow/doertakesall?style=social" target="_blank" />
+    </a>
+    <br>
+    <a href="https://twitter.com/doertakesall">
+    <img alt="Twitter: Doertakesall" src="https://img.shields.io/twitter/follow/doertakesall?style=social" target="_blank" />
+    </a>
+    <br>
+    <a href="https://t.me/jiholyxhit">
+    <img alt="Telegram: jiholyxhit" src="https://img.shields.io/badge/Follow%20TG%40-jiholyxhit-orange" target="_blank" />
+    </a>
+</div>
 ## 아카이빙
 
 ### 발표 자료
@@ -49,6 +57,7 @@
 - [MBX](https://www.notion.so/MBX-abdfc3900f0e475e8d6c8130b9005b73)
 
 **머니 스트리밍에 대해 알아보기**
+- [Programmable Money](https://defi-study.notion.site/defi-study/Programmable-Money-53659643a88b4edcbdd5b6f52db0a8ff)
 
 **ve + POL에 대해 알아보기**
 - [DeFi3.0?: ve + POL - LQDR & TOMB](https://docs.google.com/document/d/1zKj1aPcTestve_9rTCUrPzsCJbS_Eb3wONsIStU3rCE/edit?usp=sharing)
